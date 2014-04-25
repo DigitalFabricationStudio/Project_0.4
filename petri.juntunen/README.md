@@ -1,4 +1,4 @@
-Project_0.4 - Name Surname
+Project_0.4 - Petri Juntunen
 ==========================
 
 Please edit this file as Markdown (a simplified html or also with normal html).
