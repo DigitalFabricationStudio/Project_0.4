@@ -1,4 +1,5 @@
 Project_0.4
 ===========
 
-The projects and exercises developed during the 4th edition of the course
+Hello, This is Laura Uusitalo. Here will be my project. Yeah.
+
