@@ -1,8 +1,8 @@
 Petri Juntunen 11236
 
-* Design Fabrication Studio
+# Design Fabrication Studio
 
-** Alternative Images
+## Alternative Images
 
 My project will be about studying the possibilities of using novel materiel in producing photographic artworks by using laser and CNC techniques. Materiel will include black MDF, 
 and different kind of acrylics/plexiglasses.
