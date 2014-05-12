@@ -16,6 +16,7 @@ Design: Unlike traditional piggy banks, this one is built of the face alone. Beh
 The character will be lazer cut from several layers of MDF, so that the it adds enough depth within the cavity for the coins.
 The top layer will have the 'face' of the character engraved with the lazer cutter with a more interesting transluscent material such as plexiglass / acrylic material.
 
+Dimensions: 100mm (length) * 100mm (breadth) * 50mm (tentative thickness which holds a cavity within)
 
 Fabrication tools: Lazer cutter.
 
